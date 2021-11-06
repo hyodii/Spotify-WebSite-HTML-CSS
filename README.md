@@ -1,6 +1,6 @@
 # Spotify WebSite
 ### 웹페이지 어떤식으로 영역을 나눌지 생각하고 시작하기!!
-[>> 내가만든 potify 페이지 바로가기 ](https://spotify-website.hyodii.repl.co/)
+[>> 내가만든 spotify 페이지 바로가기 ](https://spotify-website.hyodii.repl.co/)
 
 <br>
 
